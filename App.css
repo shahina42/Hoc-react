@@ -1,0 +1,18 @@
+.buttons{
+  display: flex;
+  justify-content: center;
+
+}
+
+body{
+  text-align: center;
+  color: rgb(14, 95, 95);
+}
+
+button{
+  margin-left: 20px;
+  color: crimson;
+  background-color: white;
+  border: 2px solid crimson;
+  border-radius: 4px;
+}
